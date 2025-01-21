@@ -1,6 +1,9 @@
 # Mauricio Matias Martinez Izo
+
 20 años, Lima, Perú. Responsable y Tolerante.
+
 ![Imagen de perfil](https://avatars.githubusercontent.com/u/130617629?v=4)
+
 | Día       | Actividad                  |
 |-----------|----------------------------|
 | Lunes     | Estudiar HTML              |
