@@ -15,10 +15,10 @@
 <h1>Hola mundo</h1>
 ```
 
-|           | HTML vs MarkDown             |
-|-----------|------------------------------|
-|1.         | Sintaxis                     |
-|2.         | Facilidad de uso             |
-|3.         | Curva de aprendizaje         |
-|4.         | Diseño y visuales diferentes |
-|5.         | Propósito                    |
+|           | **HTML vs MarkDown**           |
+|-----------|--------------------------------|
+|1.         | *Sintaxis*                     |
+|2.         | *Facilidad de uso*             |
+|3.         | *Curva de aprendizaje*         |
+|4.         | *Diseño y visuales diferentes* |
+|5.         | *Propósito*                    |
