@@ -1,5 +1,5 @@
 # Debate 01
-1. Usar <div> para cada sección del sitio es la mejor forma de estructurar una página
+1. Usar "<div>" para cada sección del sitio es la mejor forma de estructurar una página
     
     **Falso**
     
@@ -42,22 +42,19 @@
 11. No se pueden combinar elementos semánticos con otros más genéricos como <div> o <span> en el mismo documento HTML.
     
     **Falso** 
-    
-  12. Implementar accesibilidad puede requerir ajustes de código, pero beneficia a todo tipo de usuarios a largo plazo.
+
+12. Implementar accesibilidad puede requerir ajustes de código, pero beneficia a todo tipo de usuarios a largo plazo.
     
     **Verdadero** 
     
--  13. La IA, al ser imparcial, siempre provee sugerencias de accesibilidad 100% correctas
+13. La IA, al ser imparcial, siempre provee sugerencias de accesibilidad 100% correctas
     
     **Falso**
     
--  14. Un buen uso de HTML5 semántico hace el proyecto más mantenible y promueve la colaboración entre desarrolladores.
+14. Un buen uso de HTML5 semántico hace el proyecto más mantenible y promueve la colaboración entre desarrolladores.
     
     **Verdadero**
     
--  15. La accesibilidad es un requerimiento opcional y solo aplica en organizaciones públicas o gubernamentales.
+15. La accesibilidad es un requerimiento opcional y solo aplica en organizaciones públicas o gubernamentales.
     
     **Falso**
-
-  1. Ejemplo 1
-2. 
