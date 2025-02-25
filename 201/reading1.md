@@ -1,5 +1,5 @@
 # Debate 01
-1. Usar `<div>` para cada sección del sitio es la mejor forma de estructurar una página dsfsfdsdf
+1. Usar `<div>` para cada sección del sitio es la mejor forma de estructurar una página
     
     **Falso**
     
