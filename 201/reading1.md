@@ -1,5 +1,5 @@
 # Debate 01
-1. Usar "<div>" para cada sección del sitio es la mejor forma de estructurar una página
+1. Usar `<div>` para cada sección del sitio es la mejor forma de estructurar una página
     
     **Falso**
     
@@ -23,7 +23,7 @@
     
     **Falso**
     
- 7. Las etiquetas <header>, <main> y <footer> ordenan el contenido y facilitan su lectura.
+ 7. Las etiquetas `<header>`, `<main>` y `<footer>` ordenan el contenido y facilitan su lectura.
     
     **Verdadero** 
     
@@ -39,7 +39,7 @@
     
     **Verdadero** 
     
-11. No se pueden combinar elementos semánticos con otros más genéricos como <div> o <span> en el mismo documento HTML.
+11. No se pueden combinar elementos semánticos con otros más genéricos como `<div>` o `<span>` en el mismo documento HTML.
     
     **Falso** 
 
